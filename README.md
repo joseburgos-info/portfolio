@@ -1,7 +1,7 @@
 # 🎓 Portafolio académico y profesional – José Burgos Miras
 
 ## 📄 CV
-- [Ver CV (PDF)](./CV-JoseBurgos.pdf)
+- [Ver CV (PDF)](./CV-JoséBurgosMiras.pdf)
 
 ## 📘 TFG – Reconocimiento de acciones humanas mediante Deep Learning
 - [Ver PDF del TFG](./TFG/TFG_JoseBurgos.pdf)
