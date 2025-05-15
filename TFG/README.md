@@ -67,7 +67,7 @@ El objetivo es explorar arquitecturas que permitan reconocer actividades en ento
 
 ## 📎 Acceso al documento
 
-📄 [Ver TFG completo en PDF](./TFG_BurgosMiras.pdf)
+📄 [Ver TFG completo en PDF](./TFG_JoseBurgos.pdf)
 
 ---
 
